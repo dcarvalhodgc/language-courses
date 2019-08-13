@@ -1,0 +1,7 @@
+.THIS.slds-theme--success {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(4, 132, 75) !important;
+}
+.THIS.slds-theme_success .slds-form-element__label {
+    color: white !important;
+}
